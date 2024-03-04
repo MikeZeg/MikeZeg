@@ -6,9 +6,9 @@ I'm Michael, self-through developer who improvement in FrontEnd. I learning each
 
 :bulb: - Currently I solving problem using React. Please check below my work.
 
-🎓 - Lerning JavaScript Libiary
+🎓 - Lerning JavaScript Libiary, CSS preprocessor
 
-
+:mag_right: - Improvement HTML for better performance SEO
 
 ### Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
