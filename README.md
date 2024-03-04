@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MikeZeg
-- 👀 I’m interested in javaScript language
-- 🌱 I’m currently learning JavaScript - everything
+Hello, :raised_hand:
 
-<!---
-MikeZeg/MikeZeg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About
+
+I'm Michael, self-through developer who improvement in FrontEnd. 
+I learning each day :computer: between my full-time job. Currently I solving problem using React. Please check below my work.
+
+### Skills
