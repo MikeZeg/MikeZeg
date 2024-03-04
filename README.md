@@ -1,6 +1,6 @@
 Hello, :raised_hand:
 
-### About
+### About Me
 
 I'm Michael, self-through developer who improvement in FrontEnd. I learning each day :computer: between my full-time job.
 
