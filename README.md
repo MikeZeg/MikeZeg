@@ -2,9 +2,10 @@ Hello, :raised_hand:
 
 ### About Me
 
-I'm Michael, self-through developer who improvement in FrontEnd. I learning each day :computer: between my full-time job.
+Hello I'm Michal. 
+As a self-taught front-end developer, constantly learning and honing my skills. While balancing a full-time job, I dedicate time to studying :computer: and problem-solving with React, HTML, CSS, and JavaScript, all with the aim of enhancing UI and UX.
 
-:bulb: - Currently I solving problem using React. Please check below my work.
+:bulb:Please take a look at my work below.
 
 🎓 - Lerning JavaScript Libiary, CSS preprocessor
 
