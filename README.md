@@ -1,14 +1,11 @@
 ## <p align='center'>Hello World, :raised_hand: I'm Mike</p>
 
-### About Me
-As a self-taught front-end developer, I am constantly learning and honing my skills. While balancing a full-time job, I dedicate time to studying HTML, CSS, JavaScript.
-I am always seeking more complicated challenges to improve my knowledge of the technologies, and regularly explore different tools to help speed up my work.
+### <p> About Me </p>
+<p align='center'> As a self-taught front-end developer, I am constantly learning and honing my skills. While balancing a full-time job, I dedicate time to studying HTML, CSS, JavaScript.
+I am always seeking more complicated challenges to improve my knowledge of the technologies, and regularly explore different tools to help speed up my work. </p>
 
-Please take a look at my works.
-
-🎓 - Learning JavaScript Libraries and tools, CSS preprocessor loved in Sass 
-
-:mag_right: - Improvement HTML for better performance SEO and UI and UX.
+#### <p align='center'> Please take a look at my works. </p>
+<p align='center'> 🎓 'JavaScript' Libraries and tools, CSS preprocessor loved in Sass :mag_right: - Improvement 'HTM'L for better performance SEO and UI and UX. </p>
 
 ### Language
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,6 +29,8 @@ Please take a look at my works.
 
 ### Design Tools
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![hostinger](https://img.shields.io/badge/Hostinger-%238511FA.svg?style=for-the-badge&logo=Hostinger&logoColor=white)
+
 
 ### Tools
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
