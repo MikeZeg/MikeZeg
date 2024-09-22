@@ -2,22 +2,33 @@ Hello, :raised_hand:
 
 ### About Me
 
-Hello I'm Michal. 
-As a self-taught front-end developer, constantly learning and honing my skills. While balancing a full-time job, I dedicate time to studying :computer: and problem-solving with React, HTML, CSS, and JavaScript, all with the aim of enhancing UI and UX :bulb:.
+Hello, I'm Michal. As a self-taught front-end developer, I am constantly learning and honing my skills. While balancing a full-time job, I dedicate time to studying and problem-solving with React, HTML, CSS, and JavaScript.
+I am always seeking more complicated challenges to improve my knowledge of the technologies I use, and I regularly explore different tools to help speed up my work.
 
-Please take a look at my work below.
+Please take a look at my works below. :bulb:.
 
-🎓 - Lerning JavaScript Libiary, CSS preprocessor
+🎓 - Learning JavaScript Libraries and tools, CSS preprocessor loved in Sass
 
-:mag_right: - Improvement HTML for better performance SEO
+:mag_right: - Improvement HTML for better performance SEO and UI and UX.
 
-### Skills
+### Skills - all
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+
+### Tools
+![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
 
 ### Contact
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/mikezeg)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:michalzegzula@gmail.com)
+[Portfolio](https://mikezeg.com/)
