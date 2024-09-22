@@ -1,17 +1,16 @@
-Hello, :raised_hand:
+## <p align='center'>Hello World, :raised_hand: I'm Mike</p>
 
 ### About Me
+As a self-taught front-end developer, I am constantly learning and honing my skills. While balancing a full-time job, I dedicate time to studying HTML, CSS, JavaScript.
+I am always seeking more complicated challenges to improve my knowledge of the technologies, and regularly explore different tools to help speed up my work.
 
-Hello, I'm Michal. As a self-taught front-end developer, I am constantly learning and honing my skills. While balancing a full-time job, I dedicate time to studying and problem-solving with React, HTML, CSS, and JavaScript.
-I am always seeking more complicated challenges to improve my knowledge of the technologies I use, and I regularly explore different tools to help speed up my work.
+Please take a look at my works.
 
-Please take a look at my works below. :bulb:.
-
-🎓 - Learning JavaScript Libraries and tools, CSS preprocessor loved in Sass
+🎓 - Learning JavaScript Libraries and tools, CSS preprocessor loved in Sass 
 
 :mag_right: - Improvement HTML for better performance SEO and UI and UX.
 
-### Languages
+### Language
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Front-End Development
