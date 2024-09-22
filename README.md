@@ -43,4 +43,4 @@ Please take a look at my works below. :bulb:.
 ### Contact
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/mikezeg)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:michalzegzula@gmail.com)
-[![Portfolio](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)](https://mikezeg.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)](https://mikezeg.com/)
