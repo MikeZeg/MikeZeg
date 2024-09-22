@@ -1,6 +1,6 @@
 ## <p align='center'>Hello World, :raised_hand: I'm Mike</p>
 
-### <p> About Me </p>
+### <p align='center> About Me </p>
 <p align='center'> As a self-taught front-end developer, I am constantly learning and honing my skills. While balancing a full-time job, I dedicate time to studying HTML, CSS, JavaScript.
 I am always seeking more complicated challenges to improve my knowledge of the technologies, and regularly explore different tools to help speed up my work. </p>
 
