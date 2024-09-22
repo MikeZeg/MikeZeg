@@ -4,13 +4,15 @@
 I am always seeking more complicated challenges to improve my knowledge of the technologies, and regularly explore different tools to help speed up my work. </p>
 
 #### <p align='center'> Please take a look at my works. </p>
-<p align='center'> 🎓 'JavaScript' Libraries and tools, CSS preprocessor loved in Sass :mag_right: - Improvement 'HTM'L for better performance SEO and UI and UX. </p>
-
+<div align='center'> 
+  🎓 JavaScript Libraries and tools, CSS preprocessor (loved in Sass), to improvement HTML for better performance SEO and UI and UX. 
+</div>
+ 
 <div align='center'>
 
 ### Front-End Development
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
