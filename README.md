@@ -29,10 +29,9 @@ I am always seeking more complicated challenges to improve my knowledge of the t
 
 ### Design Tools
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![hostinger](https://img.shields.io/badge/Hostinger-%238511FA.svg?style=for-the-badge&logo=Hostinger&logoColor=white)
-
 
 ### Tools
+![hostinger](https://img.shields.io/badge/Hostinger-%238511FA.svg?style=for-the-badge&logo=Hostinger&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
