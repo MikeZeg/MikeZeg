@@ -5,7 +5,7 @@ I am always seeking more complicated challenges to improve my knowledge of the t
 
 #### <p align='center'> Please take a look at my works. </p>
 <div align='center'> 
-  🎓 JavaScript Libraries and tools, CSS preprocessor (loved in Sass), to improvement HTML for better performance SEO and UI and UX. 
+  🎓 JavaScript Libraries and tools, CSS preprocessor (loved in Sass), improvement HTML for better performance SEO and UI and UX. 
 </div>
  
 <div align='center'>
